@@ -1,0 +1,12 @@
+.content {
+  padding: 16px;
+}
+
+.content > mat-card {
+  width: 200px;
+  background-color:cornsilk!important;
+  color: red!important;
+}
+.content > mat-card > mat-card-image{
+  height: 150px!important;
+}
